@@ -1,0 +1,64 @@
+
+#b {
+	text-align: center;
+	background: url(Image/map-2530069.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.hat1 {
+	overflow: hidden;
+	background-color: crimson;
+	font-weight: 900;
+	padding: 20px 0px 10px 0px;
+	font-size: 10px;
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	border-radius: 50px;
+	opacity: 0.7;
+
+	color: #fff;
+	margin-bottom: 30px;
+
+}
+#list {
+	border-radius: 30px;
+	padding: 10px !important;
+
+	width: 80%;
+	margin: auto;
+	background: url(Image/99.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+
+}
+.leg {
+	margin: auto;
+	color: green;
+	font-size: 60px;
+	text-shadow: 4px 4px 2px white;
+}
+.fields {
+
+	width: 80%;
+	margin: auto;
+	border-radius: 30px;
+	
+
+}
+.ls1 {
+	list-style: none;
+
+	
+
+}
+.ls1 li a{
+	color: #FFFF00;
+	font-family: cursive,'Times New Roman', Times, serif; /* Шрифт с засечками */
+    font-style: italic; /* Курсивное начертание */
+	font-size: 20px;
+	font-family: ;
+	text-decoration: none;
+	
+	margin-bottom: 7px;
+
+}
